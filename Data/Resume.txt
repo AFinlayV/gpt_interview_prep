@@ -1,0 +1,67 @@
+Rebecca Smith-Finlay
+r.smithfinlay@gmail.com (828) 398-8976 Asheville, NC
+SKILLS
+Leadership: Worked in leadership positions in healthcare and demanded excellent customer service
+Communication: Excellent administrative, interpersonal, and time management skills
+Data Analysis and Research: R, SQL, Python (Pandas, scikit-learn)
+Modeling: Linear and logistic regressions
+Data Visualization: Excel, Google Sheets, Tableau
+
+EDUCATION
+National Association of Pharmaceutical Representatives (Graduate) -
+Certified National Pharmaceutical Representative,
+CNPR Certification Number 699082023
+January 2023
+Duke University - Master of Science in Quantitative Management, Healthcare Analytics
+August 2020 - May 2022, GPA: 3.5 Durham, NC
+Relevant courses
+Intermediate programming
+Probability & Statistics
+Advanced Data Analytics and Applications
+Decision Models in Excel and R
+Value-Based Care
+Google Analytics Certification
+Western Carolina University - Master of Music, Piano Performance
+2010 - 2012 Cullowhee, NC
+Vanderbilt University - Bachelor of Arts, Piano Performance
+August 2003 - May 2007 Nashville, TN
+
+WORK EXPERIENCE
+Navion Senior Solutions - Memory Care Director
+April 2018 - March 2020 Hendersonville, NC
+Organized and derived analysis from daily resident reports resulting in 100% compliance with state oversight
+Built data visualizations using Tableau for new-hire training and workshops
+
+Managed department budget in Excel and achieved monthly goals by operating 10% below budget
+Collaborated with marketing, gaining insight and responding to feedback in order to improve business operations
+(~ $20,000 in new monthly revenue)
+Wrote, edited, and published community newsletter
+Facilitated Alzheimers' caregiver support group
+Carolina Reserve of Hendersonville - Memory Care Coordinator
+June 2016 - April 2018 Hendersonville, NC
+Worked with marketing to maintain community census above 90%
+Managed and updated resident electronic health records with regards to activity participation
+Managed activity program
+Wrote, edited, and published community newsletter
+Managed volunteer and activity assistants' schedules
+Developed and implemented engaging and appropriate program for adults with cognitive impairments
+WNC Baptist Retirement Home - Assistant Director of Activities
+May 2014 - May 2016 Asheville, NC
+Managed and updated resident electronic health records with regards to activity participation
+Managed activity program
+Managed volunteer and activity assistants' schedules
+PROJECTS
+Electronic Health Records Grant Proposal
+Evaluated synthetic EHR data in order to create and compare models that identified asthma sufferers most at risk
+for emergency room admission.
+Trained predictive models to predict whether there would be an emergency room visit for asthma patients
+Applied regularized linear regression, random forest, support vector machine (SVM), and Naïve Bayes model
+Coded using Python 3.9.1 and Jupyter Notebook
+Selected model using the mean cross validation score of area under precision-recall curve
+Value-Based Care for Veterans Experiencing Housing Insecurity
+Examined relevant data in order to identify opportunities for improved health care among housing insecure
+veterans
+Natural Language Processing Analysis of NBC Health Tweets
+Utilized a Latent Dirichlet Allocation (LDA) model and a Correlated Topic Model (CTM) to discover underlying
+themes within NBC Health Tweets
+Assessed the probability and frequency of these themes found in the Health Tweets document to form predictions

@@ -1,0 +1,43 @@
+Interview Questions
+General
+* Tell me about yourself.
+* Name 5 things you are not.
+* What are traits you think make a successful leader?
+* What is the most interesting thing you ever did?
+* Are you more of a big picture or details person?
+* What would you bring to this job that you feel others may not?
+* What is the best advice you would give to yourself five years ago?
+* If I spoke with your references, what would they tell me about you?
+* Describe your ideal supervisor.
+* How much do you participate in meetings percentage wise?
+* What is a misconception people have about you?
+* What is the most important trait in order to be successful?
+
+About Epic
+* Why Epic?
+* Where do you see healthcare in the next 20 years?
+* If given multiple job offers, what would be the determining factor in your choice?
+
+Work Experience
+* Tell us about a situation in which you took charge of a team.
+* Think of a time when you were in-charge and the decision you made turned out to be the wrong decision. How did you handle it?
+* Describe a time when you may have encountered a difficult situation and the steps you took to ensure resolution.
+* What type of projects have you done?
+* What was the most difficult project you had to complete?
+* Give an example of a time you showed initiative?
+* What is an example of a problem you solved?
+* Tell me about a time you were criticized. How did you work on this?
+
+Hypothetical Situations
+* Scenario: There is a decision to be made for a client in which there are four team members and one team leader. Everyone has the same experience and seniority. All four team members think that one action should be taken, and the team leader wants to do something else. The team members believe that what the leader wants to do will waste time and money for the client.
+* Two situations: one where you are the team leader and one where you are one of the four others. What do you do as each in this scenario?
+* Scenario: You have a go-live in a week but the physicians are not getting the advanced features they want and are threatening to quit if they do not get these advanced features. How do you solve the problem?
+* Scenario: How would you handle a situation where a client is about to Go Live with the product and tells you there is another hospital that the software is not created or tested for and hospital personnel are not trained?
+* How would you handle a conflict or disagreement with somebody on your team?
+* What would you do in a situation where you are a leader and you make a decision your team doesn't agree with?
+* What would you do if you disagree with your leader's decision?
+* If there was someone on your team who was chronically underperforming, how would you handle it?
+* You're in a group with three other employees, and you think you should solve a problem a certain way, but the three other group members think that the problem should be solved another way. You're certain you're correct. How do you proceed?
+* What would you do if a customer expressed a problem with one of your team members?
+* Would you rather speak in front of 30 strangers, 6 colleagues you know kind of well, or 1 person of authority? Why?
+* Which of the following would be the most difficult to present to: the CEO of a company, a group of 5-8 people who are pretty educated on what you're about to present on, or a group of 50 that have no background knowledge on the information you're presenting?
